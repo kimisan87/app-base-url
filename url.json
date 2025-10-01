@@ -1,0 +1,13 @@
+{
+  "environments": {
+    "dev": {
+      "base_url": "https://skysn9emm9yf.share.zrok.io"
+    },
+    "uat": {
+      "base_url": "https://uat.example.com"
+    },
+    "production": {
+      "base_url": "https://api.example.com"
+    }
+  }
+}
