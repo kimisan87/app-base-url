@@ -1,7 +1,7 @@
 {
   "environments": {
     "dev": {
-      "base_url": "https://skysn9emm9yf.share.zrok.io"
+      "base_url": "https://9vccyhizm1er.share.zrok.io"
     },
     "uat": {
       "base_url": "https://uat.example.com"
