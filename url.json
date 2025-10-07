@@ -1,7 +1,7 @@
 {
   "environments": {
     "dev": {
-      "base_url": "https://981e4936b4359ea2608a792fabf061e3.serveo.net"
+      "base_url": "https://fdcc011824cc5530d1c0207a276af3dd.serveo.net"
     },
     "uat": {
       "base_url": "https://uat.example.com"
