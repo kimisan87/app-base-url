@@ -1,7 +1,7 @@
 {
   "environments": {
     "dev": {
-      "base_url": "https://c6cb51cee604f51c79f2deab05f40757.serveo.net"
+      "base_url": "https://a083ddf301ab.ngrok-free.app"
     },
     "uat": {
       "base_url": "https://uat.example.com"
